@@ -75,3 +75,7 @@ ul {
     z-index: -5;
     object-fit: cover;
 }
+
+body {
+    background: purple;
+}
